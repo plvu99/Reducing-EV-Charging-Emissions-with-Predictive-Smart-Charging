@@ -105,7 +105,7 @@ Multiple models were evaluated:
 - Logistic Regression (baseline)
 - Logistic Regression with interactions
 - Random Forest
-- XGBoost (best performing)
+**- XGBoost (best performing)**
 
 Models were evaluated using:
 - ROC AUC
@@ -151,12 +151,12 @@ Utilities and automakers should introduce:
 - smart-charging reward programs
 - carbon-aware charging notifications
 
-Incentive design:
+**Incentive design:**
 - Recommended incentive rate based on maximizing sales lift: $10.00 per lb CO₂ avoided
 - Effective new price after incentive: $57,213
 - New predicted annual sales: 365.3 thousand
 - Increase in sales: +5.8 thousand (1.6%)
-- SCE program cost at current adoption: $103,323,745 per year
+- SCE program cost at the adoption: $103,323,745 per year
 
 ### 3. Improve EV charging UX
 
