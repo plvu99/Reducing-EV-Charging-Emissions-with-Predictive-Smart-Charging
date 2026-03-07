@@ -105,7 +105,7 @@ Multiple models were evaluated:
 - Logistic Regression (baseline)
 - Logistic Regression with interactions
 - Random Forest
-**- XGBoost (best performing)**
+- **XGBoost (best performing)**
 
 Models were evaluated using:
 - ROC AUC
