@@ -123,9 +123,11 @@ XGBoost achieved the highest predictive performance among the tested models.
 The trained model was used to simulate real-world charging decisions and estimate emissions reductions compared with baseline charging behavior.
 
 **Emissions under different charging policies:**
-- Always Charge Now: 4,931,979 lbs CO₂
-- Optimal (Perfect Info): 4,265,200 lbs CO₂ (13.52% reduction vs. Always Charge Now)
-- XGBoost Smart Charging: 4,343,579 lbs CO₂ (11.93% reduction vs. Always Charge Now)
+| Policy                       | Emissions         | Reduction |
+| ---------------------------- | ----------------- | --------- |
+| Always Charge Now (Baseline) | 4,931,979 lbs CO₂ |           |
+| Optimal (Perfect Info)       | 4,265,200 lbs CO₂ | -13.52%   |
+| XGBoost Smart Charging       | 4,343,579 lbs CO₂ | -11.93%   |
 
 XGBoost captures 88.25% of the theoretical maximum savings.
 
