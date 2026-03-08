@@ -168,7 +168,7 @@ Drivers should only override the system when needed.
 
 Automakers and utilities should prioritize charging during solar-rich hours, reducing grid emissions and improving renewable utilization.
 
-## ⚙ Tools & Technologies
+## ⚙ Tools & Techniques
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Machine Learning (Logistic Regression, Random Forest, XGBoost)
