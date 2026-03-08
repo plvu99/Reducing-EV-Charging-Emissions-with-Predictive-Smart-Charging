@@ -147,9 +147,9 @@ Integrate ML models into EV charging systems to automatically delay charging whe
 ### 2. Incentivize off-peak charging
 
 Utilities and automakers should introduce:
-- discounted midday charging rates
-- smart-charging reward programs
-- carbon-aware charging notifications
+- Discounted midday charging rates
+- Smart-charging reward programs
+- Carbon-aware charging notifications
 
 **Incentive design:**
 - Recommended incentive rate based on maximizing sales lift: $10.00 per lb CO₂ avoided
