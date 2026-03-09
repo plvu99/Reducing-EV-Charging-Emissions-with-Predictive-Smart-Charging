@@ -4,7 +4,7 @@
 
 Electric vehicle (EV) adoption is growing rapidly, but when vehicles charge can significantly impact grid emissions. Electricity carbon intensity varies throughout the day depending on renewable generation and grid demand.
 
-This project develops a **machine learning–driven smart charging system** that predicts **whether EV charging should be delayed to a cleaner electricity window**. By shifting charging to periods with lower carbon intensity, the system reduces emissions while maintaining user convenience.
+This project develops a **machine learning–driven smart charging system** that predicts whether **EV charging should be delayed to a cleaner electricity window**. By shifting charging to periods with lower carbon intensity, the system reduces emissions while maintaining user convenience.
 
 The solution integrates EV charging session data and grid emissions data to identify optimal charging windows and quantify potential emissions savings.
 
@@ -55,7 +55,7 @@ The project follows a structured data science workflow:
 
 Analyzed charging patterns and grid emissions across:
 - Hour of day
-- Weekday vs weekend
+- Weekday vs. weekend
 - Seasonal trends
 - Charging duration and energy delivered
 
@@ -88,7 +88,7 @@ Several time-series features were engineered to capture emission dynamics:
 
 **Time-based features**
 - Hour of day
-- Weekday vs weekend
+- Weekday vs. weekend
 - Month
 
 **Emission trend features**
@@ -172,7 +172,8 @@ Automakers and utilities should prioritize charging during solar-rich hours, red
 
 ## ⚙ Tools & Techniques
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Machine Learning (Logistic Regression, Random Forest, XGBoost)
-- Model Explainability (Feature Importance, SHAP)
-- Jupyter Notebook/Google Colab
+- Python
+- Data preprocessing (Pandas, NumPy)
+- Data visualization (Matplotlib, Seaborn)
+- Machine learning (Logistic Regression, Random Forest, XGBoost)
+- Model explainability (Feature Importance, SHAP)
